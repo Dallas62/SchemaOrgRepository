@@ -30,6 +30,7 @@ $schema = loadSchema();
 $properties = array();
 $classtypes = array('' => null);
 
+$properties['id'] = new Property('id', 'Id', array('Integer'), 'Id of the model');
 
 foreach ($schema as $key => $value) {
     switch ($key) {
@@ -41,7 +42,7 @@ foreach ($schema as $key => $value) {
         case "types":
             foreach($value as $name => $element) {
                 $parentName = (count($element->ancestors))?$element->ancestors[count($element->ancestors) - 1]:'';
-                $classtypes[$name] = new ClassType($name, $element->label, $element->comment_plain, $parentName, $element->properties);
+                $classtypes[$name] = new ClassType($name, $element->label, $element->comment_plain, $parentName, array_merge(array('id'), $element->properties));
             }
             break;
     }

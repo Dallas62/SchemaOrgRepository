@@ -169,7 +169,11 @@ class ClassType {
                     $document .=   "     * @ODM\Raw\n";
                     break;
                 default:
-                    $document .=   "     * @ODM\Field\n";
+                    if($properties[$property]->getName() !== 'id') {
+                        $document .=   "     * @ODM\Field\n";
+                    } else {
+                        $document .=   "     * @ODM\Id\n";
+                    }
             }
             $document .=   "     */\n";
             $document .=   "     protected \${$property};\n";
@@ -212,7 +216,13 @@ class ClassType {
                     $entity .=   "     * @ORM\Column(name=\"$name\", type=\"float\", nullable=true)\n";
                     break;
                 case 'integer|long':
-                    $entity .=   "     * @ORM\Column(name=\"$name\", type=\"integer\", nullable=true)\n";
+                    if($properties[$property]->getName() !== 'id') {
+                        $entity .=   "     * @ORM\Column(name=\"$name\", type=\"integer\", nullable=true)\n";
+                    } else {
+                        $entity .=   "     * @ORM\Column(name=\"id\", type=\"integer\")\n";
+                        $entity .=   "     * @ORM\Id\n";
+                        $entity .=   "     * @ORM\GeneratedValue(strategy=\"AUTO\")\n";
+                    }
                     break;
                 case 'bool':
                     $entity .=   "     * @ORM\Column(name=\"$name\", type=\"boolean\", nullable=true)\n";

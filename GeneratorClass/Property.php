@@ -35,16 +35,13 @@ class Property {
 
     private $comment;
 
-    private $haveGInterface = false;
-
-    private $haveSInterface = false;
-
     /**
      * @param string $name
      * @param string $type
      */
     public function __construct($name, $label, $type, $comment) {
-    if(substr($name, -1) == 's' && $type[0] !== 'Text' && $type[0] !== 'URL') {
+        global $properties;
+        if(substr($name, -1) == 's' && $type[0] !== 'Text' && $type[0] !== 'URL' && isset($properties[substr($name, 0, -1)])) {
             $type = array('Array');
         }
         $this->name = $name;
@@ -77,25 +74,18 @@ class Property {
      * 
      * @return string
      */
-    private function getterComment($force = false) {
-        if($this->haveGInterface && !$force) {
-            return  "\n    /**\n"
-                .   "     * {@inheritdoc}\n"
-                .   "     */\n";
-        } else {
-            $this->haveGInterface = true;
-            return  "\n    /**\n"
-                .   "     * Getter of {$this->label}\n"
-                .   "     * \n"
-                .   "     * " . wordwrap($this->comment, 70, "\n     * ", true) . "\n"
-                .   "     * \n"
-                .   "     * @author SchemaGenerator <dallas62@free.fr>\n"
-                .   "     * \n"
-                .   "     * @access public\n"
-                .   "     * \n"
-                .   "     * @return {$this->type}\n"
-                .   "     */\n";
-        }
+    private function getterComment() {
+        return  "\n    /**\n"
+            .   "     * Getter of {$this->label}\n"
+            .   "     * \n"
+            .   "     * " . wordwrap($this->comment, 70, "\n     * ", true) . "\n"
+            .   "     * \n"
+            .   "     * @author SchemaGenerator <dallas62@free.fr>\n"
+            .   "     * \n"
+            .   "     * @access public\n"
+            .   "     * \n"
+            .   "     * @return {$this->type}\n"
+            .   "     */\n";
     }
 
     /**
@@ -118,7 +108,7 @@ class Property {
      * @return string
      */
     public function getGetterInterface() {
-        $function   =   $this->getterComment(true)
+        $function   =   $this->getterComment()
                     .   "    public function get" . ucfirst($this->name) . "();\n";
         return $function;
     }
@@ -128,25 +118,18 @@ class Property {
      * 
      * @return string
      */
-    private function setterComment($force = false) {
-        if($this->haveSInterface && !$force) {
-            return  "\n    /**\n"
-                .   "     * {@inheritdoc}\n"
-                .   "     */\n";
-        } else {
-            $this->haveSInterface = true;
-            return  "\n    /**\n"
-                .   "     * Setter of {$this->label}\n"
-                .   "     * \n"
-                .   "     * " . wordwrap($this->comment, 70, "\n     * ", true) . "\n"
-                .   "     * \n"
-                .   "     * @author SchemaGenerator <dallas62@free.fr>\n"
-                .   "     * \n"
-                .   "     * @access public\n"
-                .   "     * \n"
-                .   "     * @param {$this->type} \$value Value of {$this->name}\n"
-                .   "     */\n";
-        }
+    private function setterComment() {
+        return  "\n    /**\n"
+            .   "     * Setter of {$this->label}\n"
+            .   "     * \n"
+            .   "     * " . wordwrap($this->comment, 70, "\n     * ", true) . "\n"
+            .   "     * \n"
+            .   "     * @author SchemaGenerator <dallas62@free.fr>\n"
+            .   "     * \n"
+            .   "     * @access public\n"
+            .   "     * \n"
+            .   "     * @param {$this->type} \$value Value of {$this->name}\n"
+            .   "     */\n";
     }
 
     /**
@@ -155,7 +138,7 @@ class Property {
      * @return string
      */
     public function getSetter() {
-        $function   =   $this->setterComment(true)
+        $function   =   $this->setterComment()
                     .   "    public function set" . ucfirst($this->name) . "(\$value)\n"
                     .   "    {\n"
                     .   "        \$this->{$this->name} = \$value;\n"
