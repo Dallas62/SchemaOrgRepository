@@ -248,7 +248,7 @@ abstract class AbstractTVSeries extends AbstractCreativeWork implements TVSeries
         $this->actors = $value;
     }
 
-    /*
+    /**
      * Add actor to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -262,7 +262,7 @@ abstract class AbstractTVSeries extends AbstractCreativeWork implements TVSeries
         $this->actors[] = $value;
     }
 
-    /*
+    /**
      * Remove actor to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -409,7 +409,7 @@ abstract class AbstractTVSeries extends AbstractCreativeWork implements TVSeries
         $this->episodes = $value;
     }
 
-    /*
+    /**
      * Add episode to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -423,7 +423,7 @@ abstract class AbstractTVSeries extends AbstractCreativeWork implements TVSeries
         $this->episodes[] = $value;
     }
 
-    /*
+    /**
      * Remove episode to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -636,7 +636,7 @@ abstract class AbstractTVSeries extends AbstractCreativeWork implements TVSeries
         $this->seasons = $value;
     }
 
-    /*
+    /**
      * Add season to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -650,7 +650,7 @@ abstract class AbstractTVSeries extends AbstractCreativeWork implements TVSeries
         $this->seasons[] = $value;
     }
 
-    /*
+    /**
      * Remove season to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>

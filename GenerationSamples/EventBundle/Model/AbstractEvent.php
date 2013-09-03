@@ -235,7 +235,7 @@ abstract class AbstractEvent extends AbstractThing implements EventInterface
         $this->attendees = $value;
     }
 
-    /*
+    /**
      * Add attendee to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -249,7 +249,7 @@ abstract class AbstractEvent extends AbstractThing implements EventInterface
         $this->attendees[] = $value;
     }
 
-    /*
+    /**
      * Remove attendee to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -468,7 +468,7 @@ abstract class AbstractEvent extends AbstractThing implements EventInterface
         $this->performers = $value;
     }
 
-    /*
+    /**
      * Add performer to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -482,7 +482,7 @@ abstract class AbstractEvent extends AbstractThing implements EventInterface
         $this->performers[] = $value;
     }
 
-    /*
+    /**
      * Remove performer to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -601,7 +601,7 @@ abstract class AbstractEvent extends AbstractThing implements EventInterface
         $this->subEvents = $value;
     }
 
-    /*
+    /**
      * Add subEvent to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -615,7 +615,7 @@ abstract class AbstractEvent extends AbstractThing implements EventInterface
         $this->subEvents[] = $value;
     }
 
-    /*
+    /**
      * Remove subEvent to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>

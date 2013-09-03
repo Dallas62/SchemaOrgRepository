@@ -157,7 +157,7 @@ abstract class AbstractMusicGroup extends AbstractPerformingGroup implements Mus
         $this->albums = $value;
     }
 
-    /*
+    /**
      * Add album to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -171,7 +171,7 @@ abstract class AbstractMusicGroup extends AbstractPerformingGroup implements Mus
         $this->albums[] = $value;
     }
 
-    /*
+    /**
      * Remove album to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -288,7 +288,7 @@ abstract class AbstractMusicGroup extends AbstractPerformingGroup implements Mus
         $this->tracks = $value;
     }
 
-    /*
+    /**
      * Add track to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -302,7 +302,7 @@ abstract class AbstractMusicGroup extends AbstractPerformingGroup implements Mus
         $this->tracks[] = $value;
     }
 
-    /*
+    /**
      * Remove track to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>

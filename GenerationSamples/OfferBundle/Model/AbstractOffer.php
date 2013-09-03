@@ -1501,7 +1501,7 @@ abstract class AbstractOffer extends AbstractIntangible implements OfferInterfac
         $this->reviews = $value;
     }
 
-    /*
+    /**
      * Add review to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -1515,7 +1515,7 @@ abstract class AbstractOffer extends AbstractIntangible implements OfferInterfac
         $this->reviews[] = $value;
     }
 
-    /*
+    /**
      * Remove review to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>

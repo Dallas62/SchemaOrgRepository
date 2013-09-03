@@ -1098,7 +1098,7 @@ abstract class AbstractProduct extends AbstractThing implements ProductInterface
         $this->reviews = $value;
     }
 
-    /*
+    /**
      * Add review to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -1112,7 +1112,7 @@ abstract class AbstractProduct extends AbstractThing implements ProductInterface
         $this->reviews[] = $value;
     }
 
-    /*
+    /**
      * Remove review to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>

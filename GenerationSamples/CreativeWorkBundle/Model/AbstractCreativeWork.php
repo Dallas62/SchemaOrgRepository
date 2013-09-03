@@ -1452,7 +1452,7 @@ abstract class AbstractCreativeWork extends AbstractThing implements CreativeWor
         $this->encodings = $value;
     }
 
-    /*
+    /**
      * Add encoding to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -1466,7 +1466,7 @@ abstract class AbstractCreativeWork extends AbstractThing implements CreativeWor
         $this->encodings[] = $value;
     }
 
-    /*
+    /**
      * Remove encoding to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -2017,7 +2017,7 @@ abstract class AbstractCreativeWork extends AbstractThing implements CreativeWor
         $this->reviews = $value;
     }
 
-    /*
+    /**
      * Add review to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -2031,7 +2031,7 @@ abstract class AbstractCreativeWork extends AbstractThing implements CreativeWor
         $this->reviews[] = $value;
     }
 
-    /*
+    /**
      * Remove review to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>

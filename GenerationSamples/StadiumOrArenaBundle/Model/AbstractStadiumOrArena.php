@@ -434,7 +434,7 @@ abstract class AbstractStadiumOrArena extends AbstractCivicStructure implements 
         $this->contactPoints = $value;
     }
 
-    /*
+    /**
      * Add contactPoint to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -448,7 +448,7 @@ abstract class AbstractStadiumOrArena extends AbstractCivicStructure implements 
         $this->contactPoints[] = $value;
     }
 
-    /*
+    /**
      * Remove contactPoint to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -629,7 +629,7 @@ abstract class AbstractStadiumOrArena extends AbstractCivicStructure implements 
         $this->employees = $value;
     }
 
-    /*
+    /**
      * Add employee to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -643,7 +643,7 @@ abstract class AbstractStadiumOrArena extends AbstractCivicStructure implements 
         $this->employees[] = $value;
     }
 
-    /*
+    /**
      * Remove employee to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -726,7 +726,7 @@ abstract class AbstractStadiumOrArena extends AbstractCivicStructure implements 
         $this->founders = $value;
     }
 
-    /*
+    /**
      * Add founder to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -740,7 +740,7 @@ abstract class AbstractStadiumOrArena extends AbstractCivicStructure implements 
         $this->founders[] = $value;
     }
 
-    /*
+    /**
      * Remove founder to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -987,7 +987,7 @@ abstract class AbstractStadiumOrArena extends AbstractCivicStructure implements 
         $this->members = $value;
     }
 
-    /*
+    /**
      * Add member to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -1001,7 +1001,7 @@ abstract class AbstractStadiumOrArena extends AbstractCivicStructure implements 
         $this->members[] = $value;
     }
 
-    /*
+    /**
      * Remove member to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>

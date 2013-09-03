@@ -543,7 +543,7 @@ abstract class AbstractLocalBusiness extends AbstractOrganization implements Loc
         $this->photos = $value;
     }
 
-    /*
+    /**
      * Add photo to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -557,7 +557,7 @@ abstract class AbstractLocalBusiness extends AbstractOrganization implements Loc
         $this->photos[] = $value;
     }
 
-    /*
+    /**
      * Remove photo to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>

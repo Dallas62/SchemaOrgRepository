@@ -217,7 +217,7 @@ abstract class AbstractTVSeason extends AbstractCreativeWork implements TVSeason
         $this->episodes = $value;
     }
 
-    /*
+    /**
      * Add episode to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -231,7 +231,7 @@ abstract class AbstractTVSeason extends AbstractCreativeWork implements TVSeason
         $this->episodes[] = $value;
     }
 
-    /*
+    /**
      * Remove episode to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>

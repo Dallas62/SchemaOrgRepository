@@ -897,7 +897,7 @@ abstract class AbstractPerson extends AbstractThing implements PersonInterface
         $this->colleagues = $value;
     }
 
-    /*
+    /**
      * Add colleague to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -911,7 +911,7 @@ abstract class AbstractPerson extends AbstractThing implements PersonInterface
         $this->colleagues[] = $value;
     }
 
-    /*
+    /**
      * Remove colleague to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -994,7 +994,7 @@ abstract class AbstractPerson extends AbstractThing implements PersonInterface
         $this->contactPoints = $value;
     }
 
-    /*
+    /**
      * Add contactPoint to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -1008,7 +1008,7 @@ abstract class AbstractPerson extends AbstractThing implements PersonInterface
         $this->contactPoints[] = $value;
     }
 
-    /*
+    /**
      * Remove contactPoint to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -1817,7 +1817,7 @@ abstract class AbstractPerson extends AbstractThing implements PersonInterface
         $this->parents = $value;
     }
 
-    /*
+    /**
      * Add parent to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -1831,7 +1831,7 @@ abstract class AbstractPerson extends AbstractThing implements PersonInterface
         $this->parents[] = $value;
     }
 
-    /*
+    /**
      * Remove parent to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -2010,7 +2010,7 @@ abstract class AbstractPerson extends AbstractThing implements PersonInterface
         $this->siblings = $value;
     }
 
-    /*
+    /**
      * Add sibling to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -2024,7 +2024,7 @@ abstract class AbstractPerson extends AbstractThing implements PersonInterface
         $this->siblings[] = $value;
     }
 
-    /*
+    /**
      * Remove sibling to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>

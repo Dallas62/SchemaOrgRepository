@@ -125,7 +125,7 @@ abstract class AbstractBlog extends AbstractCreativeWork implements BlogInterfac
         $this->blogPosts = $value;
     }
 
-    /*
+    /**
      * Add blogPost to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -139,7 +139,7 @@ abstract class AbstractBlog extends AbstractCreativeWork implements BlogInterfac
         $this->blogPosts[] = $value;
     }
 
-    /*
+    /**
      * Remove blogPost to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>

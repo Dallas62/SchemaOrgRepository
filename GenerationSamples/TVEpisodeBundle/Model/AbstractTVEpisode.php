@@ -206,7 +206,7 @@ abstract class AbstractTVEpisode extends AbstractCreativeWork implements TVEpiso
         $this->actors = $value;
     }
 
-    /*
+    /**
      * Add actor to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -220,7 +220,7 @@ abstract class AbstractTVEpisode extends AbstractCreativeWork implements TVEpiso
         $this->actors[] = $value;
     }
 
-    /*
+    /**
      * Remove actor to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>

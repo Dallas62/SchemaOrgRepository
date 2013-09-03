@@ -554,7 +554,7 @@ abstract class AbstractOrganization extends AbstractThing implements Organizatio
         $this->contactPoints = $value;
     }
 
-    /*
+    /**
      * Add contactPoint to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -568,7 +568,7 @@ abstract class AbstractOrganization extends AbstractThing implements Organizatio
         $this->contactPoints[] = $value;
     }
 
-    /*
+    /**
      * Remove contactPoint to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -717,7 +717,7 @@ abstract class AbstractOrganization extends AbstractThing implements Organizatio
         $this->employees = $value;
     }
 
-    /*
+    /**
      * Add employee to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -731,7 +731,7 @@ abstract class AbstractOrganization extends AbstractThing implements Organizatio
         $this->employees[] = $value;
     }
 
-    /*
+    /**
      * Remove employee to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -814,7 +814,7 @@ abstract class AbstractOrganization extends AbstractThing implements Organizatio
         $this->events = $value;
     }
 
-    /*
+    /**
      * Add event to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -828,7 +828,7 @@ abstract class AbstractOrganization extends AbstractThing implements Organizatio
         $this->events[] = $value;
     }
 
-    /*
+    /**
      * Remove event to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -943,7 +943,7 @@ abstract class AbstractOrganization extends AbstractThing implements Organizatio
         $this->founders = $value;
     }
 
-    /*
+    /**
      * Add founder to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -957,7 +957,7 @@ abstract class AbstractOrganization extends AbstractThing implements Organizatio
         $this->founders[] = $value;
     }
 
-    /*
+    /**
      * Remove founder to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -1346,7 +1346,7 @@ abstract class AbstractOrganization extends AbstractThing implements Organizatio
         $this->members = $value;
     }
 
-    /*
+    /**
      * Add member to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -1360,7 +1360,7 @@ abstract class AbstractOrganization extends AbstractThing implements Organizatio
         $this->members[] = $value;
     }
 
-    /*
+    /**
      * Remove member to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -1507,7 +1507,7 @@ abstract class AbstractOrganization extends AbstractThing implements Organizatio
         $this->reviews = $value;
     }
 
-    /*
+    /**
      * Add review to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -1521,7 +1521,7 @@ abstract class AbstractOrganization extends AbstractThing implements Organizatio
         $this->reviews[] = $value;
     }
 
-    /*
+    /**
      * Remove review to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>

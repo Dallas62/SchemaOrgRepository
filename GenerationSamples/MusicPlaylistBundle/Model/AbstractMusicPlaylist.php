@@ -167,7 +167,7 @@ abstract class AbstractMusicPlaylist extends AbstractCreativeWork implements Mus
         $this->tracks = $value;
     }
 
-    /*
+    /**
      * Add track to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -181,7 +181,7 @@ abstract class AbstractMusicPlaylist extends AbstractCreativeWork implements Mus
         $this->tracks[] = $value;
     }
 
-    /*
+    /**
      * Remove track to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>

@@ -150,7 +150,7 @@ class Property {
     }
 
     private function getArraySetter() {
-        $function   =   "\n    /*\n"
+        $function   =   "\n    /**\n"
                     .   "     * Add " . substr($this->name, 0, -1) . " to Array\n"
                     .   "     * \n"
                     .   "     * @author SchemaGenerator <dallas62@free.fr>\n"
@@ -163,7 +163,7 @@ class Property {
                     .   "    {\n"
                     .   "        \$this->{$this->name}[] = \$value;\n"
                     .   "    }\n"
-                    .   "\n    /*\n"
+                    .   "\n    /**\n"
                     .   "     * Remove " . substr($this->name, 0, -1) . " to Array\n"
                     .   "     * \n"
                     .   "     * @author SchemaGenerator <dallas62@free.fr>\n"

@@ -401,7 +401,7 @@ abstract class AbstractPlace extends AbstractThing implements PlaceInterface
         $this->events = $value;
     }
 
-    /*
+    /**
      * Add event to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -415,7 +415,7 @@ abstract class AbstractPlace extends AbstractThing implements PlaceInterface
         $this->events[] = $value;
     }
 
-    /*
+    /**
      * Remove event to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -798,7 +798,7 @@ abstract class AbstractPlace extends AbstractThing implements PlaceInterface
         $this->photos = $value;
     }
 
-    /*
+    /**
      * Add photo to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -812,7 +812,7 @@ abstract class AbstractPlace extends AbstractThing implements PlaceInterface
         $this->photos[] = $value;
     }
 
-    /*
+    /**
      * Remove photo to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -893,7 +893,7 @@ abstract class AbstractPlace extends AbstractThing implements PlaceInterface
         $this->reviews = $value;
     }
 
-    /*
+    /**
      * Add review to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
@@ -907,7 +907,7 @@ abstract class AbstractPlace extends AbstractThing implements PlaceInterface
         $this->reviews[] = $value;
     }
 
-    /*
+    /**
      * Remove review to Array
      * 
      * @author SchemaGenerator <dallas62@free.fr>
