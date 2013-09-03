@@ -1,0 +1,44 @@
+admin:
+    GeoCoordinates:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         elevation:
+             text: Elevation
+         latitude:
+             text: Latitude
+         longitude:
+             text: Longitude
+www:
+    GeoCoordinates:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         elevation:
+             text: Elevation
+         latitude:
+             text: Latitude
+         longitude:
+             text: Longitude

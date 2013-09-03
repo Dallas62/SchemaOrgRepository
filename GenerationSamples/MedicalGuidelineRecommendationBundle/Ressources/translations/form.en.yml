@@ -1,0 +1,80 @@
+admin:
+    MedicalGuidelineRecommendation:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         alternateName:
+             text: Alternate Name
+         code:
+             text: Code
+         guideline:
+             text: Guideline
+         medicineSystem:
+             text: Medicine System
+         recognizingAuthority:
+             text: Recognizing Authority
+         relevantSpecialty:
+             text: Relevant Specialty
+         study:
+             text: Study
+         evidenceLevel:
+             text: Evidence Level
+         evidenceOrigin:
+             text: Evidence Origin
+         guidelineDate:
+             text: Guideline Date
+         guidelineSubject:
+             text: Guideline Subject
+         recommendationStrength:
+             text: Recommendation Strength
+www:
+    MedicalGuidelineRecommendation:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         alternateName:
+             text: Alternate Name
+         code:
+             text: Code
+         guideline:
+             text: Guideline
+         medicineSystem:
+             text: Medicine System
+         recognizingAuthority:
+             text: Recognizing Authority
+         relevantSpecialty:
+             text: Relevant Specialty
+         study:
+             text: Study
+         evidenceLevel:
+             text: Evidence Level
+         evidenceOrigin:
+             text: Evidence Origin
+         guidelineDate:
+             text: Guideline Date
+         guidelineSubject:
+             text: Guideline Subject
+         recommendationStrength:
+             text: Recommendation Strength

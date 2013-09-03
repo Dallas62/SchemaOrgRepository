@@ -1,0 +1,52 @@
+admin:
+    GeoShape:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         box:
+             text: Box
+         circle:
+             text: Circle
+         elevation:
+             text: Elevation
+         line:
+             text: Line
+         polygon:
+             text: Polygon
+www:
+    GeoShape:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         box:
+             text: Box
+         circle:
+             text: Circle
+         elevation:
+             text: Elevation
+         line:
+             text: Line
+         polygon:
+             text: Polygon

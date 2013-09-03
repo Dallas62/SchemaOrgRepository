@@ -1,0 +1,80 @@
+admin:
+    RadiationTherapy:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         alternateName:
+             text: Alternate Name
+         code:
+             text: Code
+         guideline:
+             text: Guideline
+         medicineSystem:
+             text: Medicine System
+         recognizingAuthority:
+             text: Recognizing Authority
+         relevantSpecialty:
+             text: Relevant Specialty
+         study:
+             text: Study
+         adverseOutcome:
+             text: Adverse Outcome
+         contraindication:
+             text: Contraindication
+         duplicateTherapy:
+             text: Duplicate Therapy
+         indication:
+             text: Indication
+         seriousAdverseOutcome:
+             text: Serious Adverse Outcome
+www:
+    RadiationTherapy:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         alternateName:
+             text: Alternate Name
+         code:
+             text: Code
+         guideline:
+             text: Guideline
+         medicineSystem:
+             text: Medicine System
+         recognizingAuthority:
+             text: Recognizing Authority
+         relevantSpecialty:
+             text: Relevant Specialty
+         study:
+             text: Study
+         adverseOutcome:
+             text: Adverse Outcome
+         contraindication:
+             text: Contraindication
+         duplicateTherapy:
+             text: Duplicate Therapy
+         indication:
+             text: Indication
+         seriousAdverseOutcome:
+             text: Serious Adverse Outcome

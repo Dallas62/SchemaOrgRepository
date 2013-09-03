@@ -1,0 +1,56 @@
+admin:
+    AggregateRating:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         bestRating:
+             text: Best Rating
+         ratingValue:
+             text: Rating Value
+         worstRating:
+             text: Worst Rating
+         itemReviewed:
+             text: Item Reviewed
+         ratingCount:
+             text: Rating Count
+         reviewCount:
+             text: Review Count
+www:
+    AggregateRating:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         bestRating:
+             text: Best Rating
+         ratingValue:
+             text: Rating Value
+         worstRating:
+             text: Worst Rating
+         itemReviewed:
+             text: Item Reviewed
+         ratingCount:
+             text: Rating Count
+         reviewCount:
+             text: Review Count

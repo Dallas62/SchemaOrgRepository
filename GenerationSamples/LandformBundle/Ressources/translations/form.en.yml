@@ -1,0 +1,108 @@
+admin:
+    Landform:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         address:
+             text: Address
+         aggregateRating:
+             text: Aggregate Rating
+         containedIn:
+             text: Contained in
+         event:
+             text: Event
+         events:
+             text: Events
+         faxNumber:
+             text: Fax Number
+         geo:
+             text: Geo
+         globalLocationNumber:
+             text: Global Location Number
+         interactionCount:
+             text: Interaction Count
+         isicV4:
+             text: Isic V4
+         logo:
+             text: Logo
+         map:
+             text: Map
+         maps:
+             text: Maps
+         openingHoursSpecification:
+             text: Opening Hours Specification
+         photo:
+             text: Photo
+         photos:
+             text: Photos
+         review:
+             text: Review
+         reviews:
+             text: Reviews
+         telephone:
+             text: Telephone
+www:
+    Landform:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         address:
+             text: Address
+         aggregateRating:
+             text: Aggregate Rating
+         containedIn:
+             text: Contained in
+         event:
+             text: Event
+         events:
+             text: Events
+         faxNumber:
+             text: Fax Number
+         geo:
+             text: Geo
+         globalLocationNumber:
+             text: Global Location Number
+         interactionCount:
+             text: Interaction Count
+         isicV4:
+             text: Isic V4
+         logo:
+             text: Logo
+         map:
+             text: Map
+         maps:
+             text: Maps
+         openingHoursSpecification:
+             text: Opening Hours Specification
+         photo:
+             text: Photo
+         photos:
+             text: Photos
+         review:
+             text: Review
+         reviews:
+             text: Reviews
+         telephone:
+             text: Telephone

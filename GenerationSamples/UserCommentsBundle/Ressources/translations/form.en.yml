@@ -1,0 +1,100 @@
+admin:
+    UserComments:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         attendee:
+             text: Attendee
+         attendees:
+             text: Attendees
+         duration:
+             text: Duration
+         endDate:
+             text: End Date
+         location:
+             text: Location
+         offers:
+             text: Offers
+         performer:
+             text: Performer
+         performers:
+             text: Performers
+         startDate:
+             text: Start Date
+         subEvent:
+             text: Sub Event
+         subEvents:
+             text: Sub Events
+         superEvent:
+             text: Super Event
+         commentText:
+             text: Comment Text
+         commentTime:
+             text: Comment Time
+         creator:
+             text: Creator
+         discusses:
+             text: Discusses
+         replyToUrl:
+             text: Reply to Url
+www:
+    UserComments:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         attendee:
+             text: Attendee
+         attendees:
+             text: Attendees
+         duration:
+             text: Duration
+         endDate:
+             text: End Date
+         location:
+             text: Location
+         offers:
+             text: Offers
+         performer:
+             text: Performer
+         performers:
+             text: Performers
+         startDate:
+             text: Start Date
+         subEvent:
+             text: Sub Event
+         subEvents:
+             text: Sub Events
+         superEvent:
+             text: Super Event
+         commentText:
+             text: Comment Text
+         commentTime:
+             text: Comment Time
+         creator:
+             text: Creator
+         discusses:
+             text: Discusses
+         replyToUrl:
+             text: Reply to Url

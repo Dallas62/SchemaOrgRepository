@@ -1,0 +1,72 @@
+admin:
+    PostalAddress:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         contactType:
+             text: Contact Type
+         email:
+             text: Email
+         faxNumber:
+             text: Fax Number
+         telephone:
+             text: Telephone
+         addressCountry:
+             text: Address Country
+         addressLocality:
+             text: Address Locality
+         addressRegion:
+             text: Address Region
+         postalCode:
+             text: Postal Code
+         postOfficeBoxNumber:
+             text: Post Office Box Number
+         streetAddress:
+             text: Street Address
+www:
+    PostalAddress:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         contactType:
+             text: Contact Type
+         email:
+             text: Email
+         faxNumber:
+             text: Fax Number
+         telephone:
+             text: Telephone
+         addressCountry:
+             text: Address Country
+         addressLocality:
+             text: Address Locality
+         addressRegion:
+             text: Address Region
+         postalCode:
+             text: Postal Code
+         postOfficeBoxNumber:
+             text: Post Office Box Number
+         streetAddress:
+             text: Street Address

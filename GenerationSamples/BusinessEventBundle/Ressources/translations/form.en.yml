@@ -1,0 +1,80 @@
+admin:
+    BusinessEvent:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         attendee:
+             text: Attendee
+         attendees:
+             text: Attendees
+         duration:
+             text: Duration
+         endDate:
+             text: End Date
+         location:
+             text: Location
+         offers:
+             text: Offers
+         performer:
+             text: Performer
+         performers:
+             text: Performers
+         startDate:
+             text: Start Date
+         subEvent:
+             text: Sub Event
+         subEvents:
+             text: Sub Events
+         superEvent:
+             text: Super Event
+www:
+    BusinessEvent:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         attendee:
+             text: Attendee
+         attendees:
+             text: Attendees
+         duration:
+             text: Duration
+         endDate:
+             text: End Date
+         location:
+             text: Location
+         offers:
+             text: Offers
+         performer:
+             text: Performer
+         performers:
+             text: Performers
+         startDate:
+             text: Start Date
+         subEvent:
+             text: Sub Event
+         subEvents:
+             text: Sub Events
+         superEvent:
+             text: Super Event

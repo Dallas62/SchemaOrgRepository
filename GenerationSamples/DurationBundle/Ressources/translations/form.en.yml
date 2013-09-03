@@ -1,0 +1,8 @@
+admin:
+    Duration:
+         id:
+             text: Id
+www:
+    Duration:
+         id:
+             text: Id

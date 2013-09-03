@@ -1,0 +1,264 @@
+admin:
+    TVSeason:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         about:
+             text: About
+         accountablePerson:
+             text: Accountable Person
+         aggregateRating:
+             text: Aggregate Rating
+         alternativeHeadline:
+             text: Alternative Headline
+         associatedMedia:
+             text: Associated Media
+         audience:
+             text: Audience
+         audio:
+             text: Audio
+         author:
+             text: Author
+         award:
+             text: Award
+         awards:
+             text: Awards
+         citation:
+             text: Citation
+         comment:
+             text: Comment
+         contentLocation:
+             text: Content Location
+         contentRating:
+             text: Content Rating
+         contributor:
+             text: Contributor
+         copyrightHolder:
+             text: Copyright Holder
+         copyrightYear:
+             text: Copyright Year
+         creator:
+             text: Creator
+         dateCreated:
+             text: Date Created
+         dateModified:
+             text: Date Modified
+         datePublished:
+             text: Date Published
+         discussionUrl:
+             text: Discussion Url
+         editor:
+             text: Editor
+         educationalAlignment:
+             text: Educational Alignment
+         educationalUse:
+             text: Educational Use
+         encoding:
+             text: Encoding
+         encodings:
+             text: Encodings
+         genre:
+             text: Genre
+         headline:
+             text: Headline
+         inLanguage:
+             text: In Language
+         interactionCount:
+             text: Interaction Count
+         interactivityType:
+             text: Interactivity Type
+         isBasedOnUrl:
+             text: Is Based On Url
+         isFamilyFriendly:
+             text: Is Family Friendly
+         keywords:
+             text: Keywords
+         learningResourceType:
+             text: Learning Resource Type
+         mentions:
+             text: Mentions
+         offers:
+             text: Offers
+         provider:
+             text: Provider
+         publisher:
+             text: Publisher
+         publishingPrinciples:
+             text: Publishing Principles
+         review:
+             text: Review
+         reviews:
+             text: Reviews
+         sourceOrganization:
+             text: Source Organization
+         text:
+             text: Text
+         thumbnailUrl:
+             text: Thumbnail Url
+         timeRequired:
+             text: Time Required
+         typicalAgeRange:
+             text: Typical Age Range
+         version:
+             text: Version
+         video:
+             text: Video
+         endDate:
+             text: End Date
+         episode:
+             text: Episode
+         episodes:
+             text: Episodes
+         numberOfEpisodes:
+             text: Number of Episodes
+         partOfTVSeries:
+             text: Part of TV Series
+         seasonNumber:
+             text: Season Number
+         startDate:
+             text: Start Date
+         trailer:
+             text: Trailer
+www:
+    TVSeason:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         about:
+             text: About
+         accountablePerson:
+             text: Accountable Person
+         aggregateRating:
+             text: Aggregate Rating
+         alternativeHeadline:
+             text: Alternative Headline
+         associatedMedia:
+             text: Associated Media
+         audience:
+             text: Audience
+         audio:
+             text: Audio
+         author:
+             text: Author
+         award:
+             text: Award
+         awards:
+             text: Awards
+         citation:
+             text: Citation
+         comment:
+             text: Comment
+         contentLocation:
+             text: Content Location
+         contentRating:
+             text: Content Rating
+         contributor:
+             text: Contributor
+         copyrightHolder:
+             text: Copyright Holder
+         copyrightYear:
+             text: Copyright Year
+         creator:
+             text: Creator
+         dateCreated:
+             text: Date Created
+         dateModified:
+             text: Date Modified
+         datePublished:
+             text: Date Published
+         discussionUrl:
+             text: Discussion Url
+         editor:
+             text: Editor
+         educationalAlignment:
+             text: Educational Alignment
+         educationalUse:
+             text: Educational Use
+         encoding:
+             text: Encoding
+         encodings:
+             text: Encodings
+         genre:
+             text: Genre
+         headline:
+             text: Headline
+         inLanguage:
+             text: In Language
+         interactionCount:
+             text: Interaction Count
+         interactivityType:
+             text: Interactivity Type
+         isBasedOnUrl:
+             text: Is Based On Url
+         isFamilyFriendly:
+             text: Is Family Friendly
+         keywords:
+             text: Keywords
+         learningResourceType:
+             text: Learning Resource Type
+         mentions:
+             text: Mentions
+         offers:
+             text: Offers
+         provider:
+             text: Provider
+         publisher:
+             text: Publisher
+         publishingPrinciples:
+             text: Publishing Principles
+         review:
+             text: Review
+         reviews:
+             text: Reviews
+         sourceOrganization:
+             text: Source Organization
+         text:
+             text: Text
+         thumbnailUrl:
+             text: Thumbnail Url
+         timeRequired:
+             text: Time Required
+         typicalAgeRange:
+             text: Typical Age Range
+         version:
+             text: Version
+         video:
+             text: Video
+         endDate:
+             text: End Date
+         episode:
+             text: Episode
+         episodes:
+             text: Episodes
+         numberOfEpisodes:
+             text: Number of Episodes
+         partOfTVSeries:
+             text: Part of TV Series
+         seasonNumber:
+             text: Season Number
+         startDate:
+             text: Start Date
+         trailer:
+             text: Trailer

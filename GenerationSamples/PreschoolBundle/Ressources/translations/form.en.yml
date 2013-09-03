@@ -1,0 +1,168 @@
+admin:
+    Preschool:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         address:
+             text: Address
+         aggregateRating:
+             text: Aggregate Rating
+         brand:
+             text: Brand
+         contactPoint:
+             text: Contact Point
+         contactPoints:
+             text: Contact Points
+         duns:
+             text: Duns
+         email:
+             text: Email
+         employee:
+             text: Employee
+         employees:
+             text: Employees
+         event:
+             text: Event
+         events:
+             text: Events
+         faxNumber:
+             text: Fax Number
+         founder:
+             text: Founder
+         founders:
+             text: Founders
+         foundingDate:
+             text: Founding Date
+         globalLocationNumber:
+             text: Global Location Number
+         hasPOS:
+             text: Has POS
+         interactionCount:
+             text: Interaction Count
+         isicV4:
+             text: Isic V4
+         legalName:
+             text: Legal Name
+         location:
+             text: Location
+         logo:
+             text: Logo
+         makesOffer:
+             text: Makes Offer
+         member:
+             text: Member
+         members:
+             text: Members
+         naics:
+             text: Naics
+         owns:
+             text: Owns
+         review:
+             text: Review
+         reviews:
+             text: Reviews
+         seeks:
+             text: Seeks
+         taxID:
+             text: Tax ID
+         telephone:
+             text: Telephone
+         vatID:
+             text: Vat ID
+         alumni:
+             text: Alumni
+www:
+    Preschool:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         address:
+             text: Address
+         aggregateRating:
+             text: Aggregate Rating
+         brand:
+             text: Brand
+         contactPoint:
+             text: Contact Point
+         contactPoints:
+             text: Contact Points
+         duns:
+             text: Duns
+         email:
+             text: Email
+         employee:
+             text: Employee
+         employees:
+             text: Employees
+         event:
+             text: Event
+         events:
+             text: Events
+         faxNumber:
+             text: Fax Number
+         founder:
+             text: Founder
+         founders:
+             text: Founders
+         foundingDate:
+             text: Founding Date
+         globalLocationNumber:
+             text: Global Location Number
+         hasPOS:
+             text: Has POS
+         interactionCount:
+             text: Interaction Count
+         isicV4:
+             text: Isic V4
+         legalName:
+             text: Legal Name
+         location:
+             text: Location
+         logo:
+             text: Logo
+         makesOffer:
+             text: Makes Offer
+         member:
+             text: Member
+         members:
+             text: Members
+         naics:
+             text: Naics
+         owns:
+             text: Owns
+         review:
+             text: Review
+         reviews:
+             text: Reviews
+         seeks:
+             text: Seeks
+         taxID:
+             text: Tax ID
+         telephone:
+             text: Telephone
+         vatID:
+             text: Vat ID
+         alumni:
+             text: Alumni

@@ -1,0 +1,44 @@
+admin:
+    Rating:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         bestRating:
+             text: Best Rating
+         ratingValue:
+             text: Rating Value
+         worstRating:
+             text: Worst Rating
+www:
+    Rating:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         bestRating:
+             text: Best Rating
+         ratingValue:
+             text: Rating Value
+         worstRating:
+             text: Worst Rating

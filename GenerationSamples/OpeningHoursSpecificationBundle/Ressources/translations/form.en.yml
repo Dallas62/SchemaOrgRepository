@@ -1,0 +1,52 @@
+admin:
+    OpeningHoursSpecification:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         closes:
+             text: Closes
+         dayOfWeek:
+             text: Day of Week
+         opens:
+             text: Opens
+         validFrom:
+             text: Valid From
+         validThrough:
+             text: Valid Through
+www:
+    OpeningHoursSpecification:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         closes:
+             text: Closes
+         dayOfWeek:
+             text: Day of Week
+         opens:
+             text: Opens
+         validFrom:
+             text: Valid From
+         validThrough:
+             text: Valid Through

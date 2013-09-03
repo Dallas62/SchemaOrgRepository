@@ -1,0 +1,68 @@
+admin:
+    PriceSpecification:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         eligibleQuantity:
+             text: Eligible Quantity
+         eligibleTransactionVolume:
+             text: Eligible Transaction Volume
+         maxPrice:
+             text: Max Price
+         minPrice:
+             text: Min Price
+         price:
+             text: Price
+         priceCurrency:
+             text: Price Currency
+         validFrom:
+             text: Valid From
+         validThrough:
+             text: Valid Through
+         valueAddedTaxIncluded:
+             text: Value Added Tax Included
+www:
+    PriceSpecification:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         eligibleQuantity:
+             text: Eligible Quantity
+         eligibleTransactionVolume:
+             text: Eligible Transaction Volume
+         maxPrice:
+             text: Max Price
+         minPrice:
+             text: Min Price
+         price:
+             text: Price
+         priceCurrency:
+             text: Price Currency
+         validFrom:
+             text: Valid From
+         validThrough:
+             text: Valid Through
+         valueAddedTaxIncluded:
+             text: Value Added Tax Included

@@ -1,0 +1,140 @@
+admin:
+    IndividualProduct:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         aggregateRating:
+             text: Aggregate Rating
+         audience:
+             text: Audience
+         brand:
+             text: Brand
+         color:
+             text: Color
+         depth:
+             text: Depth
+         gtin13:
+             text: Gtin13
+         gtin14:
+             text: Gtin14
+         gtin8:
+             text: Gtin8
+         height:
+             text: Height
+         isAccessoryOrSparePartFor:
+             text: Is Accessory or Spare Part for
+         isConsumableFor:
+             text: Is Consumable for
+         isRelatedTo:
+             text: Is Related to
+         isSimilarTo:
+             text: Is Similar to
+         itemCondition:
+             text: Item Condition
+         logo:
+             text: Logo
+         manufacturer:
+             text: Manufacturer
+         model:
+             text: Model
+         mpn:
+             text: Mpn
+         offers:
+             text: Offers
+         productID:
+             text: Product ID
+         releaseDate:
+             text: Release Date
+         review:
+             text: Review
+         reviews:
+             text: Reviews
+         sku:
+             text: Sku
+         weight:
+             text: Weight
+         width:
+             text: Width
+         serialNumber:
+             text: Serial Number
+www:
+    IndividualProduct:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         aggregateRating:
+             text: Aggregate Rating
+         audience:
+             text: Audience
+         brand:
+             text: Brand
+         color:
+             text: Color
+         depth:
+             text: Depth
+         gtin13:
+             text: Gtin13
+         gtin14:
+             text: Gtin14
+         gtin8:
+             text: Gtin8
+         height:
+             text: Height
+         isAccessoryOrSparePartFor:
+             text: Is Accessory or Spare Part for
+         isConsumableFor:
+             text: Is Consumable for
+         isRelatedTo:
+             text: Is Related to
+         isSimilarTo:
+             text: Is Similar to
+         itemCondition:
+             text: Item Condition
+         logo:
+             text: Logo
+         manufacturer:
+             text: Manufacturer
+         model:
+             text: Model
+         mpn:
+             text: Mpn
+         offers:
+             text: Offers
+         productID:
+             text: Product ID
+         releaseDate:
+             text: Release Date
+         review:
+             text: Review
+         reviews:
+             text: Reviews
+         sku:
+             text: Sku
+         weight:
+             text: Weight
+         width:
+             text: Width
+         serialNumber:
+             text: Serial Number

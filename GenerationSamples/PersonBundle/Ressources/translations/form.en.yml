@@ -1,0 +1,224 @@
+admin:
+    Person:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         additionalName:
+             text: Additional Name
+         address:
+             text: Address
+         affiliation:
+             text: Affiliation
+         alumniOf:
+             text: Alumni of
+         award:
+             text: Award
+         awards:
+             text: Awards
+         birthDate:
+             text: Birth Date
+         brand:
+             text: Brand
+         children:
+             text: Children
+         colleague:
+             text: Colleague
+         colleagues:
+             text: Colleagues
+         contactPoint:
+             text: Contact Point
+         contactPoints:
+             text: Contact Points
+         deathDate:
+             text: Death Date
+         duns:
+             text: Duns
+         email:
+             text: Email
+         familyName:
+             text: Family Name
+         faxNumber:
+             text: Fax Number
+         follows:
+             text: Follows
+         gender:
+             text: Gender
+         givenName:
+             text: Given Name
+         globalLocationNumber:
+             text: Global Location Number
+         hasPOS:
+             text: Has POS
+         homeLocation:
+             text: Home Location
+         honorificPrefix:
+             text: Honorific Prefix
+         honorificSuffix:
+             text: Honorific Suffix
+         interactionCount:
+             text: Interaction Count
+         isicV4:
+             text: Isic V4
+         jobTitle:
+             text: Job Title
+         knows:
+             text: Knows
+         makesOffer:
+             text: Makes Offer
+         memberOf:
+             text: Member of
+         naics:
+             text: Naics
+         nationality:
+             text: Nationality
+         owns:
+             text: Owns
+         parent:
+             text: Parent
+         parents:
+             text: Parents
+         performerIn:
+             text: Performer in
+         relatedTo:
+             text: Related to
+         seeks:
+             text: Seeks
+         sibling:
+             text: Sibling
+         siblings:
+             text: Siblings
+         spouse:
+             text: Spouse
+         taxID:
+             text: Tax ID
+         telephone:
+             text: Telephone
+         vatID:
+             text: Vat ID
+         workLocation:
+             text: Work Location
+         worksFor:
+             text: Works for
+www:
+    Person:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         additionalName:
+             text: Additional Name
+         address:
+             text: Address
+         affiliation:
+             text: Affiliation
+         alumniOf:
+             text: Alumni of
+         award:
+             text: Award
+         awards:
+             text: Awards
+         birthDate:
+             text: Birth Date
+         brand:
+             text: Brand
+         children:
+             text: Children
+         colleague:
+             text: Colleague
+         colleagues:
+             text: Colleagues
+         contactPoint:
+             text: Contact Point
+         contactPoints:
+             text: Contact Points
+         deathDate:
+             text: Death Date
+         duns:
+             text: Duns
+         email:
+             text: Email
+         familyName:
+             text: Family Name
+         faxNumber:
+             text: Fax Number
+         follows:
+             text: Follows
+         gender:
+             text: Gender
+         givenName:
+             text: Given Name
+         globalLocationNumber:
+             text: Global Location Number
+         hasPOS:
+             text: Has POS
+         homeLocation:
+             text: Home Location
+         honorificPrefix:
+             text: Honorific Prefix
+         honorificSuffix:
+             text: Honorific Suffix
+         interactionCount:
+             text: Interaction Count
+         isicV4:
+             text: Isic V4
+         jobTitle:
+             text: Job Title
+         knows:
+             text: Knows
+         makesOffer:
+             text: Makes Offer
+         memberOf:
+             text: Member of
+         naics:
+             text: Naics
+         nationality:
+             text: Nationality
+         owns:
+             text: Owns
+         parent:
+             text: Parent
+         parents:
+             text: Parents
+         performerIn:
+             text: Performer in
+         relatedTo:
+             text: Related to
+         seeks:
+             text: Seeks
+         sibling:
+             text: Sibling
+         siblings:
+             text: Siblings
+         spouse:
+             text: Spouse
+         taxID:
+             text: Tax ID
+         telephone:
+             text: Telephone
+         vatID:
+             text: Vat ID
+         workLocation:
+             text: Work Location
+         worksFor:
+             text: Works for

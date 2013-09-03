@@ -1,0 +1,60 @@
+admin:
+    QualitativeValue:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         equal:
+             text: Equal
+         greater:
+             text: Greater
+         greaterOrEqual:
+             text: Greater or Equal
+         lesser:
+             text: Lesser
+         lesserOrEqual:
+             text: Lesser or Equal
+         nonEqual:
+             text: Non Equal
+         valueReference:
+             text: Value Reference
+www:
+    QualitativeValue:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         equal:
+             text: Equal
+         greater:
+             text: Greater
+         greaterOrEqual:
+             text: Greater or Equal
+         lesser:
+             text: Lesser
+         lesserOrEqual:
+             text: Lesser or Equal
+         nonEqual:
+             text: Non Equal
+         valueReference:
+             text: Value Reference

@@ -1,0 +1,96 @@
+admin:
+    AnatomicalStructure:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         alternateName:
+             text: Alternate Name
+         code:
+             text: Code
+         guideline:
+             text: Guideline
+         medicineSystem:
+             text: Medicine System
+         recognizingAuthority:
+             text: Recognizing Authority
+         relevantSpecialty:
+             text: Relevant Specialty
+         study:
+             text: Study
+         associatedPathophysiology:
+             text: Associated Pathophysiology
+         bodyLocation:
+             text: Body Location
+         connectedTo:
+             text: Connected to
+         diagram:
+             text: Diagram
+         function:
+             text: Function
+         partOfSystem:
+             text: Part of System
+         relatedCondition:
+             text: Related Condition
+         relatedTherapy:
+             text: Related Therapy
+         subStructure:
+             text: Sub Structure
+www:
+    AnatomicalStructure:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         alternateName:
+             text: Alternate Name
+         code:
+             text: Code
+         guideline:
+             text: Guideline
+         medicineSystem:
+             text: Medicine System
+         recognizingAuthority:
+             text: Recognizing Authority
+         relevantSpecialty:
+             text: Relevant Specialty
+         study:
+             text: Study
+         associatedPathophysiology:
+             text: Associated Pathophysiology
+         bodyLocation:
+             text: Body Location
+         connectedTo:
+             text: Connected to
+         diagram:
+             text: Diagram
+         function:
+             text: Function
+         partOfSystem:
+             text: Part of System
+         relatedCondition:
+             text: Related Condition
+         relatedTherapy:
+             text: Related Therapy
+         subStructure:
+             text: Sub Structure

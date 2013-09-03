@@ -1,0 +1,84 @@
+admin:
+    ImagingTest:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         alternateName:
+             text: Alternate Name
+         code:
+             text: Code
+         guideline:
+             text: Guideline
+         medicineSystem:
+             text: Medicine System
+         recognizingAuthority:
+             text: Recognizing Authority
+         relevantSpecialty:
+             text: Relevant Specialty
+         study:
+             text: Study
+         affectedBy:
+             text: Affected by
+         normalRange:
+             text: Normal Range
+         signDetected:
+             text: Sign Detected
+         usedToDiagnose:
+             text: Used to Diagnose
+         usesDevice:
+             text: Uses Device
+         imagingTechnique:
+             text: Imaging Technique
+www:
+    ImagingTest:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         alternateName:
+             text: Alternate Name
+         code:
+             text: Code
+         guideline:
+             text: Guideline
+         medicineSystem:
+             text: Medicine System
+         recognizingAuthority:
+             text: Recognizing Authority
+         relevantSpecialty:
+             text: Relevant Specialty
+         study:
+             text: Study
+         affectedBy:
+             text: Affected by
+         normalRange:
+             text: Normal Range
+         signDetected:
+             text: Sign Detected
+         usedToDiagnose:
+             text: Used to Diagnose
+         usesDevice:
+             text: Uses Device
+         imagingTechnique:
+             text: Imaging Technique

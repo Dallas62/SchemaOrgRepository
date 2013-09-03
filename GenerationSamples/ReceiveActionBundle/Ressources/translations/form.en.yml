@@ -1,0 +1,80 @@
+admin:
+    ReceiveAction:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         agent:
+             text: Agent
+         endTime:
+             text: End Time
+         instrument:
+             text: Instrument
+         location:
+             text: Location
+         object:
+             text: Object
+         participant:
+             text: Participant
+         result:
+             text: Result
+         startTime:
+             text: Start Time
+         fromLocation:
+             text: From Location
+         toLocation:
+             text: To Location
+         deliveryMethod:
+             text: Delivery Method
+         sender:
+             text: Sender
+www:
+    ReceiveAction:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         agent:
+             text: Agent
+         endTime:
+             text: End Time
+         instrument:
+             text: Instrument
+         location:
+             text: Location
+         object:
+             text: Object
+         participant:
+             text: Participant
+         result:
+             text: Result
+         startTime:
+             text: Start Time
+         fromLocation:
+             text: From Location
+         toLocation:
+             text: To Location
+         deliveryMethod:
+             text: Delivery Method
+         sender:
+             text: Sender

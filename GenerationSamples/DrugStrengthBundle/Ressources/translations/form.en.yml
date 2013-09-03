@@ -1,0 +1,76 @@
+admin:
+    DrugStrength:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         alternateName:
+             text: Alternate Name
+         code:
+             text: Code
+         guideline:
+             text: Guideline
+         medicineSystem:
+             text: Medicine System
+         recognizingAuthority:
+             text: Recognizing Authority
+         relevantSpecialty:
+             text: Relevant Specialty
+         study:
+             text: Study
+         activeIngredient:
+             text: Active Ingredient
+         availableIn:
+             text: Available in
+         strengthUnit:
+             text: Strength Unit
+         strengthValue:
+             text: Strength Value
+www:
+    DrugStrength:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         alternateName:
+             text: Alternate Name
+         code:
+             text: Code
+         guideline:
+             text: Guideline
+         medicineSystem:
+             text: Medicine System
+         recognizingAuthority:
+             text: Recognizing Authority
+         relevantSpecialty:
+             text: Relevant Specialty
+         study:
+             text: Study
+         activeIngredient:
+             text: Active Ingredient
+         availableIn:
+             text: Available in
+         strengthUnit:
+             text: Strength Unit
+         strengthValue:
+             text: Strength Value

@@ -1,0 +1,128 @@
+admin:
+    DietarySupplement:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         alternateName:
+             text: Alternate Name
+         code:
+             text: Code
+         guideline:
+             text: Guideline
+         medicineSystem:
+             text: Medicine System
+         recognizingAuthority:
+             text: Recognizing Authority
+         relevantSpecialty:
+             text: Relevant Specialty
+         study:
+             text: Study
+         adverseOutcome:
+             text: Adverse Outcome
+         contraindication:
+             text: Contraindication
+         duplicateTherapy:
+             text: Duplicate Therapy
+         indication:
+             text: Indication
+         seriousAdverseOutcome:
+             text: Serious Adverse Outcome
+         activeIngredient:
+             text: Active Ingredient
+         background:
+             text: Background
+         dosageForm:
+             text: Dosage Form
+         isProprietary:
+             text: Is Proprietary
+         legalStatus:
+             text: Legal Status
+         manufacturer:
+             text: Manufacturer
+         maximumIntake:
+             text: Maximum Intake
+         mechanismOfAction:
+             text: Mechanism of Action
+         nonProprietaryName:
+             text: Non Proprietary Name
+         recommendedIntake:
+             text: Recommended Intake
+         safetyConsideration:
+             text: Safety Consideration
+         targetPopulation:
+             text: Target Population
+www:
+    DietarySupplement:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         alternateName:
+             text: Alternate Name
+         code:
+             text: Code
+         guideline:
+             text: Guideline
+         medicineSystem:
+             text: Medicine System
+         recognizingAuthority:
+             text: Recognizing Authority
+         relevantSpecialty:
+             text: Relevant Specialty
+         study:
+             text: Study
+         adverseOutcome:
+             text: Adverse Outcome
+         contraindication:
+             text: Contraindication
+         duplicateTherapy:
+             text: Duplicate Therapy
+         indication:
+             text: Indication
+         seriousAdverseOutcome:
+             text: Serious Adverse Outcome
+         activeIngredient:
+             text: Active Ingredient
+         background:
+             text: Background
+         dosageForm:
+             text: Dosage Form
+         isProprietary:
+             text: Is Proprietary
+         legalStatus:
+             text: Legal Status
+         manufacturer:
+             text: Manufacturer
+         maximumIntake:
+             text: Maximum Intake
+         mechanismOfAction:
+             text: Mechanism of Action
+         nonProprietaryName:
+             text: Non Proprietary Name
+         recommendedIntake:
+             text: Recommended Intake
+         safetyConsideration:
+             text: Safety Consideration
+         targetPopulation:
+             text: Target Population

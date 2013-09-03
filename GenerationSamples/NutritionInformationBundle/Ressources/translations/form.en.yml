@@ -1,0 +1,80 @@
+admin:
+    NutritionInformation:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         calories:
+             text: Calories
+         carbohydrateContent:
+             text: Carbohydrate Content
+         cholesterolContent:
+             text: Cholesterol Content
+         fatContent:
+             text: Fat Content
+         fiberContent:
+             text: Fiber Content
+         proteinContent:
+             text: Protein Content
+         saturatedFatContent:
+             text: Saturated Fat Content
+         servingSize:
+             text: Serving Size
+         sodiumContent:
+             text: Sodium Content
+         sugarContent:
+             text: Sugar Content
+         transFatContent:
+             text: Trans Fat Content
+         unsaturatedFatContent:
+             text: Unsaturated Fat Content
+www:
+    NutritionInformation:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         calories:
+             text: Calories
+         carbohydrateContent:
+             text: Carbohydrate Content
+         cholesterolContent:
+             text: Cholesterol Content
+         fatContent:
+             text: Fat Content
+         fiberContent:
+             text: Fiber Content
+         proteinContent:
+             text: Protein Content
+         saturatedFatContent:
+             text: Saturated Fat Content
+         servingSize:
+             text: Serving Size
+         sodiumContent:
+             text: Sodium Content
+         sugarContent:
+             text: Sugar Content
+         transFatContent:
+             text: Trans Fat Content
+         unsaturatedFatContent:
+             text: Unsaturated Fat Content

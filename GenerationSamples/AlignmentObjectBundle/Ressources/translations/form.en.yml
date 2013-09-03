@@ -1,0 +1,52 @@
+admin:
+    AlignmentObject:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         alignmentType:
+             text: Alignment Type
+         educationalFramework:
+             text: Educational Framework
+         targetDescription:
+             text: Target Description
+         targetName:
+             text: Target Name
+         targetUrl:
+             text: Target Url
+www:
+    AlignmentObject:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         alignmentType:
+             text: Alignment Type
+         educationalFramework:
+             text: Educational Framework
+         targetDescription:
+             text: Target Description
+         targetName:
+             text: Target Name
+         targetUrl:
+             text: Target Url

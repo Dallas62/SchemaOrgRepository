@@ -1,0 +1,124 @@
+admin:
+    MedicalCondition:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         alternateName:
+             text: Alternate Name
+         code:
+             text: Code
+         guideline:
+             text: Guideline
+         medicineSystem:
+             text: Medicine System
+         recognizingAuthority:
+             text: Recognizing Authority
+         relevantSpecialty:
+             text: Relevant Specialty
+         study:
+             text: Study
+         associatedAnatomy:
+             text: Associated Anatomy
+         cause:
+             text: Cause
+         differentialDiagnosis:
+             text: Differential Diagnosis
+         epidemiology:
+             text: Epidemiology
+         expectedPrognosis:
+             text: Expected Prognosis
+         naturalProgression:
+             text: Natural Progression
+         pathophysiology:
+             text: Pathophysiology
+         possibleComplication:
+             text: Possible Complication
+         possibleTreatment:
+             text: Possible Treatment
+         primaryPrevention:
+             text: Primary Prevention
+         riskFactor:
+             text: Risk Factor
+         secondaryPrevention:
+             text: Secondary Prevention
+         signOrSymptom:
+             text: Sign or Symptom
+         stage:
+             text: Stage
+         subtype:
+             text: Subtype
+         typicalTest:
+             text: Typical Test
+www:
+    MedicalCondition:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         alternateName:
+             text: Alternate Name
+         code:
+             text: Code
+         guideline:
+             text: Guideline
+         medicineSystem:
+             text: Medicine System
+         recognizingAuthority:
+             text: Recognizing Authority
+         relevantSpecialty:
+             text: Relevant Specialty
+         study:
+             text: Study
+         associatedAnatomy:
+             text: Associated Anatomy
+         cause:
+             text: Cause
+         differentialDiagnosis:
+             text: Differential Diagnosis
+         epidemiology:
+             text: Epidemiology
+         expectedPrognosis:
+             text: Expected Prognosis
+         naturalProgression:
+             text: Natural Progression
+         pathophysiology:
+             text: Pathophysiology
+         possibleComplication:
+             text: Possible Complication
+         possibleTreatment:
+             text: Possible Treatment
+         primaryPrevention:
+             text: Primary Prevention
+         riskFactor:
+             text: Risk Factor
+         secondaryPrevention:
+             text: Secondary Prevention
+         signOrSymptom:
+             text: Sign or Symptom
+         stage:
+             text: Stage
+         subtype:
+             text: Subtype
+         typicalTest:
+             text: Typical Test

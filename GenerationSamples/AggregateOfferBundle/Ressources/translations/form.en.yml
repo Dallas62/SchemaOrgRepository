@@ -1,0 +1,192 @@
+admin:
+    AggregateOffer:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         acceptedPaymentMethod:
+             text: Accepted Payment Method
+         addOn:
+             text: Add On
+         advanceBookingRequirement:
+             text: Advance Booking Requirement
+         aggregateRating:
+             text: Aggregate Rating
+         availability:
+             text: Availability
+         availabilityEnds:
+             text: Availability Ends
+         availabilityStarts:
+             text: Availability Starts
+         availableAtOrFrom:
+             text: Available At or From
+         availableDeliveryMethod:
+             text: Available Delivery Method
+         businessFunction:
+             text: Business Function
+         category:
+             text: Category
+         deliveryLeadTime:
+             text: Delivery Lead Time
+         eligibleCustomerType:
+             text: Eligible Customer Type
+         eligibleDuration:
+             text: Eligible Duration
+         eligibleQuantity:
+             text: Eligible Quantity
+         eligibleRegion:
+             text: Eligible Region
+         eligibleTransactionVolume:
+             text: Eligible Transaction Volume
+         gtin13:
+             text: Gtin13
+         gtin14:
+             text: Gtin14
+         gtin8:
+             text: Gtin8
+         includesObject:
+             text: Includes Object
+         inventoryLevel:
+             text: Inventory Level
+         itemCondition:
+             text: Item Condition
+         itemOffered:
+             text: Item Offered
+         mpn:
+             text: Mpn
+         price:
+             text: Price
+         priceCurrency:
+             text: Price Currency
+         priceSpecification:
+             text: Price Specification
+         priceValidUntil:
+             text: Price Valid Until
+         review:
+             text: Review
+         reviews:
+             text: Reviews
+         seller:
+             text: Seller
+         serialNumber:
+             text: Serial Number
+         sku:
+             text: Sku
+         validFrom:
+             text: Valid From
+         validThrough:
+             text: Valid Through
+         warranty:
+             text: Warranty
+         highPrice:
+             text: High Price
+         lowPrice:
+             text: Low Price
+         offerCount:
+             text: Offer Count
+www:
+    AggregateOffer:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         acceptedPaymentMethod:
+             text: Accepted Payment Method
+         addOn:
+             text: Add On
+         advanceBookingRequirement:
+             text: Advance Booking Requirement
+         aggregateRating:
+             text: Aggregate Rating
+         availability:
+             text: Availability
+         availabilityEnds:
+             text: Availability Ends
+         availabilityStarts:
+             text: Availability Starts
+         availableAtOrFrom:
+             text: Available At or From
+         availableDeliveryMethod:
+             text: Available Delivery Method
+         businessFunction:
+             text: Business Function
+         category:
+             text: Category
+         deliveryLeadTime:
+             text: Delivery Lead Time
+         eligibleCustomerType:
+             text: Eligible Customer Type
+         eligibleDuration:
+             text: Eligible Duration
+         eligibleQuantity:
+             text: Eligible Quantity
+         eligibleRegion:
+             text: Eligible Region
+         eligibleTransactionVolume:
+             text: Eligible Transaction Volume
+         gtin13:
+             text: Gtin13
+         gtin14:
+             text: Gtin14
+         gtin8:
+             text: Gtin8
+         includesObject:
+             text: Includes Object
+         inventoryLevel:
+             text: Inventory Level
+         itemCondition:
+             text: Item Condition
+         itemOffered:
+             text: Item Offered
+         mpn:
+             text: Mpn
+         price:
+             text: Price
+         priceCurrency:
+             text: Price Currency
+         priceSpecification:
+             text: Price Specification
+         priceValidUntil:
+             text: Price Valid Until
+         review:
+             text: Review
+         reviews:
+             text: Reviews
+         seller:
+             text: Seller
+         serialNumber:
+             text: Serial Number
+         sku:
+             text: Sku
+         validFrom:
+             text: Valid From
+         validThrough:
+             text: Valid Through
+         warranty:
+             text: Warranty
+         highPrice:
+             text: High Price
+         lowPrice:
+             text: Low Price
+         offerCount:
+             text: Offer Count

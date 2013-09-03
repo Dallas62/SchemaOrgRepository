@@ -1,0 +1,48 @@
+admin:
+    PeopleAudience:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         healthCondition:
+             text: Health Condition
+         suggestedGender:
+             text: Suggested Gender
+         suggestedMaxAge:
+             text: Suggested Max Age
+         suggestedMinAge:
+             text: Suggested Min Age
+www:
+    PeopleAudience:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         healthCondition:
+             text: Health Condition
+         suggestedGender:
+             text: Suggested Gender
+         suggestedMaxAge:
+             text: Suggested Max Age
+         suggestedMinAge:
+             text: Suggested Min Age

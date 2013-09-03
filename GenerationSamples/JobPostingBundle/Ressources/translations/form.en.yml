@@ -1,0 +1,104 @@
+admin:
+    JobPosting:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         baseSalary:
+             text: Base Salary
+         benefits:
+             text: Benefits
+         datePosted:
+             text: Date Posted
+         educationRequirements:
+             text: Education Requirements
+         employmentType:
+             text: Employment Type
+         experienceRequirements:
+             text: Experience Requirements
+         hiringOrganization:
+             text: Hiring Organization
+         incentives:
+             text: Incentives
+         industry:
+             text: Industry
+         jobLocation:
+             text: Job Location
+         occupationalCategory:
+             text: Occupational Category
+         qualifications:
+             text: Qualifications
+         responsibilities:
+             text: Responsibilities
+         salaryCurrency:
+             text: Salary Currency
+         skills:
+             text: Skills
+         specialCommitments:
+             text: Special Commitments
+         title:
+             text: Title
+         workHours:
+             text: Work Hours
+www:
+    JobPosting:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         baseSalary:
+             text: Base Salary
+         benefits:
+             text: Benefits
+         datePosted:
+             text: Date Posted
+         educationRequirements:
+             text: Education Requirements
+         employmentType:
+             text: Employment Type
+         experienceRequirements:
+             text: Experience Requirements
+         hiringOrganization:
+             text: Hiring Organization
+         incentives:
+             text: Incentives
+         industry:
+             text: Industry
+         jobLocation:
+             text: Job Location
+         occupationalCategory:
+             text: Occupational Category
+         qualifications:
+             text: Qualifications
+         responsibilities:
+             text: Responsibilities
+         salaryCurrency:
+             text: Salary Currency
+         skills:
+             text: Skills
+         specialCommitments:
+             text: Special Commitments
+         title:
+             text: Title
+         workHours:
+             text: Work Hours

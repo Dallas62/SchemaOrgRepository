@@ -1,0 +1,116 @@
+admin:
+    ExerciseAction:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         agent:
+             text: Agent
+         endTime:
+             text: End Time
+         instrument:
+             text: Instrument
+         location:
+             text: Location
+         object:
+             text: Object
+         participant:
+             text: Participant
+         result:
+             text: Result
+         startTime:
+             text: Start Time
+         audience:
+             text: Audience
+         event:
+             text: Event
+         course:
+             text: Course
+         diet:
+             text: Diet
+         distance:
+             text: Distance
+         exercisePlan:
+             text: Exercise Plan
+         exerciseType:
+             text: Exercise Type
+         fromLocation:
+             text: From Location
+         oponent:
+             text: Oponent
+         sportsActivityLocation:
+             text: Sports Activity Location
+         sportsEvent:
+             text: Sports Event
+         sportsTeam:
+             text: Sports Team
+         toLocation:
+             text: To Location
+www:
+    ExerciseAction:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         agent:
+             text: Agent
+         endTime:
+             text: End Time
+         instrument:
+             text: Instrument
+         location:
+             text: Location
+         object:
+             text: Object
+         participant:
+             text: Participant
+         result:
+             text: Result
+         startTime:
+             text: Start Time
+         audience:
+             text: Audience
+         event:
+             text: Event
+         course:
+             text: Course
+         diet:
+             text: Diet
+         distance:
+             text: Distance
+         exercisePlan:
+             text: Exercise Plan
+         exerciseType:
+             text: Exercise Type
+         fromLocation:
+             text: From Location
+         oponent:
+             text: Oponent
+         sportsActivityLocation:
+             text: Sports Activity Location
+         sportsEvent:
+             text: Sports Event
+         sportsTeam:
+             text: Sports Team
+         toLocation:
+             text: To Location

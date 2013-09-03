@@ -1,0 +1,88 @@
+admin:
+    MedicalObservationalStudy:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         alternateName:
+             text: Alternate Name
+         code:
+             text: Code
+         guideline:
+             text: Guideline
+         medicineSystem:
+             text: Medicine System
+         recognizingAuthority:
+             text: Recognizing Authority
+         relevantSpecialty:
+             text: Relevant Specialty
+         study:
+             text: Study
+         outcome:
+             text: Outcome
+         population:
+             text: Population
+         sponsor:
+             text: Sponsor
+         status:
+             text: Status
+         studyLocation:
+             text: Study Location
+         studySubject:
+             text: Study Subject
+         studyDesign:
+             text: Study Design
+www:
+    MedicalObservationalStudy:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         alternateName:
+             text: Alternate Name
+         code:
+             text: Code
+         guideline:
+             text: Guideline
+         medicineSystem:
+             text: Medicine System
+         recognizingAuthority:
+             text: Recognizing Authority
+         relevantSpecialty:
+             text: Relevant Specialty
+         study:
+             text: Study
+         outcome:
+             text: Outcome
+         population:
+             text: Population
+         sponsor:
+             text: Sponsor
+         status:
+             text: Status
+         studyLocation:
+             text: Study Location
+         studySubject:
+             text: Study Subject
+         studyDesign:
+             text: Study Design

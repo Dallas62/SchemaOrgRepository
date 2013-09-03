@@ -1,0 +1,184 @@
+admin:
+    Drug:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         alternateName:
+             text: Alternate Name
+         code:
+             text: Code
+         guideline:
+             text: Guideline
+         medicineSystem:
+             text: Medicine System
+         recognizingAuthority:
+             text: Recognizing Authority
+         relevantSpecialty:
+             text: Relevant Specialty
+         study:
+             text: Study
+         adverseOutcome:
+             text: Adverse Outcome
+         contraindication:
+             text: Contraindication
+         duplicateTherapy:
+             text: Duplicate Therapy
+         indication:
+             text: Indication
+         seriousAdverseOutcome:
+             text: Serious Adverse Outcome
+         activeIngredient:
+             text: Active Ingredient
+         administrationRoute:
+             text: Administration Route
+         alcoholWarning:
+             text: Alcohol Warning
+         availableStrength:
+             text: Available Strength
+         breastfeedingWarning:
+             text: Breastfeeding Warning
+         clincalPharmacology:
+             text: Clincal Pharmacology
+         cost:
+             text: Cost
+         dosageForm:
+             text: Dosage Form
+         doseSchedule:
+             text: Dose Schedule
+         drugClass:
+             text: Drug Class
+         foodWarning:
+             text: Food Warning
+         interactingDrug:
+             text: Interacting Drug
+         isAvailableGenerically:
+             text: Is Available Generically
+         isProprietary:
+             text: Is Proprietary
+         labelDetails:
+             text: Label Details
+         legalStatus:
+             text: Legal Status
+         manufacturer:
+             text: Manufacturer
+         mechanismOfAction:
+             text: Mechanism of Action
+         nonProprietaryName:
+             text: Non Proprietary Name
+         overdosage:
+             text: Overdosage
+         pregnancyCategory:
+             text: Pregnancy Category
+         pregnancyWarning:
+             text: Pregnancy Warning
+         prescribingInfo:
+             text: Prescribing Info
+         prescriptionStatus:
+             text: Prescription Status
+         relatedDrug:
+             text: Related Drug
+         warning:
+             text: Warning
+www:
+    Drug:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         alternateName:
+             text: Alternate Name
+         code:
+             text: Code
+         guideline:
+             text: Guideline
+         medicineSystem:
+             text: Medicine System
+         recognizingAuthority:
+             text: Recognizing Authority
+         relevantSpecialty:
+             text: Relevant Specialty
+         study:
+             text: Study
+         adverseOutcome:
+             text: Adverse Outcome
+         contraindication:
+             text: Contraindication
+         duplicateTherapy:
+             text: Duplicate Therapy
+         indication:
+             text: Indication
+         seriousAdverseOutcome:
+             text: Serious Adverse Outcome
+         activeIngredient:
+             text: Active Ingredient
+         administrationRoute:
+             text: Administration Route
+         alcoholWarning:
+             text: Alcohol Warning
+         availableStrength:
+             text: Available Strength
+         breastfeedingWarning:
+             text: Breastfeeding Warning
+         clincalPharmacology:
+             text: Clincal Pharmacology
+         cost:
+             text: Cost
+         dosageForm:
+             text: Dosage Form
+         doseSchedule:
+             text: Dose Schedule
+         drugClass:
+             text: Drug Class
+         foodWarning:
+             text: Food Warning
+         interactingDrug:
+             text: Interacting Drug
+         isAvailableGenerically:
+             text: Is Available Generically
+         isProprietary:
+             text: Is Proprietary
+         labelDetails:
+             text: Label Details
+         legalStatus:
+             text: Legal Status
+         manufacturer:
+             text: Manufacturer
+         mechanismOfAction:
+             text: Mechanism of Action
+         nonProprietaryName:
+             text: Non Proprietary Name
+         overdosage:
+             text: Overdosage
+         pregnancyCategory:
+             text: Pregnancy Category
+         pregnancyWarning:
+             text: Pregnancy Warning
+         prescribingInfo:
+             text: Prescribing Info
+         prescriptionStatus:
+             text: Prescription Status
+         relatedDrug:
+             text: Related Drug
+         warning:
+             text: Warning

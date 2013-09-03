@@ -1,0 +1,52 @@
+admin:
+    QuantitativeValue:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         maxValue:
+             text: Max Value
+         minValue:
+             text: Min Value
+         unitCode:
+             text: Unit Code
+         value:
+             text: Value
+         valueReference:
+             text: Value Reference
+www:
+    QuantitativeValue:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         maxValue:
+             text: Max Value
+         minValue:
+             text: Min Value
+         unitCode:
+             text: Unit Code
+         value:
+             text: Value
+         valueReference:
+             text: Value Reference

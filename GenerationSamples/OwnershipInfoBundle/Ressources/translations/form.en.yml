@@ -1,0 +1,48 @@
+admin:
+    OwnershipInfo:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         acquiredFrom:
+             text: Acquired From
+         ownedFrom:
+             text: Owned From
+         ownedThrough:
+             text: Owned Through
+         typeOfGood:
+             text: Type of Good
+www:
+    OwnershipInfo:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         acquiredFrom:
+             text: Acquired From
+         ownedFrom:
+             text: Owned From
+         ownedThrough:
+             text: Owned Through
+         typeOfGood:
+             text: Type of Good

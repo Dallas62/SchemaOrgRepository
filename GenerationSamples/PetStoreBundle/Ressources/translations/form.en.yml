@@ -1,0 +1,212 @@
+admin:
+    PetStore:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         address:
+             text: Address
+         aggregateRating:
+             text: Aggregate Rating
+         containedIn:
+             text: Contained in
+         event:
+             text: Event
+         events:
+             text: Events
+         faxNumber:
+             text: Fax Number
+         geo:
+             text: Geo
+         globalLocationNumber:
+             text: Global Location Number
+         interactionCount:
+             text: Interaction Count
+         isicV4:
+             text: Isic V4
+         logo:
+             text: Logo
+         map:
+             text: Map
+         maps:
+             text: Maps
+         openingHoursSpecification:
+             text: Opening Hours Specification
+         photo:
+             text: Photo
+         photos:
+             text: Photos
+         review:
+             text: Review
+         reviews:
+             text: Reviews
+         telephone:
+             text: Telephone
+         brand:
+             text: Brand
+         contactPoint:
+             text: Contact Point
+         contactPoints:
+             text: Contact Points
+         duns:
+             text: Duns
+         email:
+             text: Email
+         employee:
+             text: Employee
+         employees:
+             text: Employees
+         founder:
+             text: Founder
+         founders:
+             text: Founders
+         foundingDate:
+             text: Founding Date
+         hasPOS:
+             text: Has POS
+         legalName:
+             text: Legal Name
+         location:
+             text: Location
+         makesOffer:
+             text: Makes Offer
+         member:
+             text: Member
+         members:
+             text: Members
+         naics:
+             text: Naics
+         owns:
+             text: Owns
+         seeks:
+             text: Seeks
+         taxID:
+             text: Tax ID
+         vatID:
+             text: Vat ID
+         branchOf:
+             text: Branch of
+         currenciesAccepted:
+             text: Currencies Accepted
+         openingHours:
+             text: Opening Hours
+         paymentAccepted:
+             text: Payment Accepted
+         priceRange:
+             text: Price Range
+www:
+    PetStore:
+         id:
+             text: Id
+         additionalType:
+             text: Additional Type
+         description:
+             text: Description
+         image:
+             text: Image
+         name:
+             text: Name
+         sameAs:
+             text: Same As
+         url:
+             text: URL
+         address:
+             text: Address
+         aggregateRating:
+             text: Aggregate Rating
+         containedIn:
+             text: Contained in
+         event:
+             text: Event
+         events:
+             text: Events
+         faxNumber:
+             text: Fax Number
+         geo:
+             text: Geo
+         globalLocationNumber:
+             text: Global Location Number
+         interactionCount:
+             text: Interaction Count
+         isicV4:
+             text: Isic V4
+         logo:
+             text: Logo
+         map:
+             text: Map
+         maps:
+             text: Maps
+         openingHoursSpecification:
+             text: Opening Hours Specification
+         photo:
+             text: Photo
+         photos:
+             text: Photos
+         review:
+             text: Review
+         reviews:
+             text: Reviews
+         telephone:
+             text: Telephone
+         brand:
+             text: Brand
+         contactPoint:
+             text: Contact Point
+         contactPoints:
+             text: Contact Points
+         duns:
+             text: Duns
+         email:
+             text: Email
+         employee:
+             text: Employee
+         employees:
+             text: Employees
+         founder:
+             text: Founder
+         founders:
+             text: Founders
+         foundingDate:
+             text: Founding Date
+         hasPOS:
+             text: Has POS
+         legalName:
+             text: Legal Name
+         location:
+             text: Location
+         makesOffer:
+             text: Makes Offer
+         member:
+             text: Member
+         members:
+             text: Members
+         naics:
+             text: Naics
+         owns:
+             text: Owns
+         seeks:
+             text: Seeks
+         taxID:
+             text: Tax ID
+         vatID:
+             text: Vat ID
+         branchOf:
+             text: Branch of
+         currenciesAccepted:
+             text: Currencies Accepted
+         openingHours:
+             text: Opening Hours
+         paymentAccepted:
+             text: Payment Accepted
+         priceRange:
+             text: Price Range
